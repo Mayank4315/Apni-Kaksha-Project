@@ -1,0 +1,27 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   /* font-size: 200%; */
+   font-size: 45px;
+}
+
+html{
+    font-size: 25px;
+}
+
+div{
+    box-sizing: border-box;
+    color: blue;
+    margin-bottom: 4px;
+    padding: 4px;
+    width: 400px;
+}
+
+.precent{
+    font-size: 200%;
+}
+.em{
+    font-size: 1em;
+}
+.rem{
+    font-size: 1rem;
+}

@@ -1,0 +1,34 @@
+body{
+    background-color: darkslategray;
+}
+.main{
+    border: 5px solid black;
+    width: 500px;
+    margin: 0px auto;
+    margin-top: 150px;
+    height: 350px;
+    color: white;
+}
+.heading{
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.input1{
+    width: 100%;
+    border: none;
+    background-color: darkslategray;
+    color: white;
+    font-size: 16px;
+    border-bottom: 1px solid white;
+    margin-top: 15px;
+}
+.signup{
+    background-color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
